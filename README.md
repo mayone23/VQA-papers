@@ -233,3 +233,10 @@ A reading list of resources dedicated to visual(image) question answering「main
 | 7 | [MUREL: Multimodal Relational Reasoning for Visual Question Answering](https://arxiv.org/pdf/1902.09487) | 2019.02.25 |  |  | CVPR 2019 |
 | 8 | [GQA: a new dataset for compositional question answering over real-world images](https://arxiv.org/pdf/1902.09506) | 2019.02.25 |  |  |  |
 | 9 | [Answer Them All! Toward Universal Visual Question Answering Models](https://arxiv.org/pdf/1903.00366) | 2019.03.01 |  |  |  |
+
+
+## 2024 Papers
+
+| ID | Title | Ori Date | Latest Date | Notes | Pubilshed<br>(Incomplete Statistics) |
+| :-: | :-: | :-: | :-: | - | :-: |
+| 1 | [GRAM: Global Reasoning for Multi-Page VQA]([https://arxiv.org/abs/1901.06706](https://arxiv.org/abs/2401.03411)) | 2024.01.07 | 2024.03.18 | | CVPR 2024 | 
